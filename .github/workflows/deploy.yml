@@ -13,7 +13,7 @@ jobs:
       - name: Descargar código
         uses: actions/checkout@v3
 
-      - name: Deploy a Azure App Service
+      - name: Deploy a Azure
         uses: azure/webapps-deploy@v2
         with:
           app-name: app-listrace-web-prod-SM-pokedex
