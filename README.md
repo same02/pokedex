@@ -32,7 +32,7 @@ La aplicación fue desplegada como sitio estático.
 
 ## 4. URL pública
 
-https://app-listrace-web-prod-SM-pokedex.azurewebsites.net/
+https://app-listrace-web-prod-sm-pokedex-fvdqe3bfb9gvh3gv.brazilsouth-01.azurewebsites.net/
 
 ---
 
